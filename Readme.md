@@ -1,4 +1,3 @@
-
 # Bouncing Balls
 
 A simple Pygame project demonstrating bouncing balls with collision and explosion effects.
@@ -9,6 +8,10 @@ A simple Pygame project demonstrating bouncing balls with collision and explosio
 - Collision detection
 - Explosion effects with particles
 - Colorful visuals
+
+## Screenshot
+
+![Screenshot](screenshot.png)
 
 ## Requirements
 
