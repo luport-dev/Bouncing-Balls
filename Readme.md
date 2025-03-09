@@ -20,7 +20,10 @@ A simple Pygame project demonstrating bouncing balls with collision and explosio
 
 ## Installation
 
-1.  Make sure you have Python 3.x installed.
+1. Make sure you have Python 3.x installed. If needed, visit https://www.python.org/downloads/ to install it. You can verify your version by running:
+```bash
+python --version
+```
 2.  Install Pygame:
 
     ```bash
